@@ -1,5 +1,7 @@
 # Hi 👋 I'm Bilal (Bilal006-bit) — Software Engineer
 
+Data Engineer & Backend Developer — Python, SQLAlchemy, ETL, product-driven analytics.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bilalali06/)
 
 I build reliable, production-ready data pipelines and backend services that help teams ship features faster. My work blends data engineering, analytics, and pragmatic backend development for enterprise-grade applications.
@@ -14,7 +16,7 @@ Python • SQLAlchemy • Data Engineering • SQL • pandas • Streamlit • 
 
 ## ⭐ Highlight Projects
 - [clinic-cancellation-intel](https://github.com/Bilal006-bit/clinic-cancellation-intel) — Python pipeline analysing physiotherapy appointment cancellations using SQLAlchemy and pandas; integrates external weather data to improve analysis.
-- [data-viz-cancer-dashboard.](https://github.com/Bilal006-bit/data-viz-cancer-dashboard.) — Interactive Streamlit dashboard and multidimensional visual analysis of 30 years of cancer mortality data (Plotly + storytelling with data).
+- [data-viz-cancer-dashboard](https://github.com/Bilal006-bit/data-viz-cancer-dashboard) — Interactive Streamlit dashboard and multidimensional visual analysis of 30 years of cancer mortality data (Plotly + storytelling with data).
 - [FlowState](https://github.com/Bilal006-bit/FlowState) — Local-first CLI tooling for developer workflows (Python); focuses on reducing context switching and keeping git history human-friendly.
 - [Via-Physio-CaseStudy](https://github.com/Bilal006-bit/Via-Physio-CaseStudy) — Reception utilization case study: appointment calendar + staff shift analysis to surface operational improvements.
 
