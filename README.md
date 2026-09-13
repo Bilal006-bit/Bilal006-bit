@@ -27,7 +27,7 @@ Python • SQLAlchemy • Data Engineering • SQL • pandas • Streamlit • 
 
 - Kistr (HR) — Problem: HR teams needed a single source of truth for employee records and basic analytics. Solution: developed a compact HR microservice for employee profiles, role history, and simple analytics endpoints; included CSV import/exports and audit logging. Impact: centralized employee data and made reporting straightforward for people ops.
 
-(If any wording or technical details need correction for a specific project, tell me which project and the exact change and I will update it.)
+
 
 ## 📈 GitHub stats
 [![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilal006-bit&show_icons=true&theme=radical)](https://github.com/Bilal006-bit)
@@ -39,10 +39,3 @@ Open to roles or collaborations in data engineering, backend development, and an
 - LinkedIn: https://www.linkedin.com/in/bilalali06/
 - Email: bilalalidaper@gmail.com
 
----
-
-If you want further polish I can:
-- Replace project bullets with exact metrics if you provide numbers (e.g., "reduced processing time by 40%"),
-- Create an alternate banner design (different colors or text),
-- Add dynamic badges (top languages, Wakatime, streaks), or
-- Help you pick and pin 3–6 repos on your profile.
