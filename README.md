@@ -1,8 +1,10 @@
 # Hi 👋 I'm Bilal (Bilal006-bit) — Software Engineer
 
-Data Engineer & Backend Developer — Python, SQLAlchemy, ETL, product-driven analytics.
+<img src="./assets/banner.svg" alt="Bilal Ali banner" width="1200" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bilalali06/)
+**Data Engineer & Backend Developer — Python, SQLAlchemy, ETL, product-driven analytics.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bilalali06/)  [![Email](https://img.shields.io/badge/Email-bilalalidaper%40gmail.com-yellow?logo=gmail)](mailto:bilalalidaper@gmail.com)
 
 I build reliable, production-ready data pipelines and backend services that help teams ship features faster. My work blends data engineering, analytics, and pragmatic backend development for enterprise-grade applications.
 
@@ -14,13 +16,18 @@ I build reliable, production-ready data pipelines and backend services that help
 ## 🛠️ Core skills
 Python • SQLAlchemy • Data Engineering • SQL • pandas • Streamlit • JavaScript • Node.js • REST APIs • PostgreSQL • Docker (deployment) • AWS (beginner)
 
-## ⭐ Highlight Projects
-- [clinic-cancellation-intel](https://github.com/Bilal006-bit/clinic-cancellation-intel) — Python pipeline analysing physiotherapy appointment cancellations using SQLAlchemy and pandas; integrates external weather data to improve analysis.
-- [data-viz-cancer-dashboard](https://github.com/Bilal006-bit/data-viz-cancer-dashboard) — Interactive Streamlit dashboard and multidimensional visual analysis of 30 years of cancer mortality data (Plotly + storytelling with data).
-- [FlowState](https://github.com/Bilal006-bit/FlowState) — Local-first CLI tooling for developer workflows (Python); focuses on reducing context switching and keeping git history human-friendly.
-- [Via-Physio-CaseStudy](https://github.com/Bilal006-bit/Via-Physio-CaseStudy) — Reception utilization case study: appointment calendar + staff shift analysis to surface operational improvements.
+## ⭐ Selected projects (strong case-style bullets)
+- Via-Physio-CaseStudy — Problem: clinic reception and staff shifts produced scheduling gaps and missed appointments. Solution: built an ETL pipeline to consolidate calendar, appointment and shift data, cleaned and modeled the data with SQLAlchemy and pandas, and delivered exploration dashboards highlighting utilization patterns. Impact: surfaced actionable scheduling changes and opportunities to reduce cancellations and wasted capacity.
 
-(If you prefer different projects pinned/highlighted, tell me which ones.)
+- Urban Drive — Problem: fragmented trip telemetry and manual data reconciliation made analytics slow. Solution: implemented a backend service and ingestion pipeline to normalize trip events, validate telemetry, and store canonical records for fast querying. Impact: enabled reliable trip analytics and simplified downstream reporting and QA.
+
+- Docu_core — Problem: teams lacked a reliable document ingestion and search layer. Solution: built a document core microservice that extracts metadata, indexes documents, and exposes a search API (Postgres + full-text/isolation patterns). Impact: reduced time-to-find documents and enabled programmatic document workflows.
+
+- watercane_servico — Problem: sensor telemetry for water systems arrived in varying formats and was hard to monitor. Solution: created a lightweight ingestion service and streaming processors to normalize sensor feeds and push validated metrics into a time-series-friendly store. Impact: provided near-real-time visibility into sensor health and simplified alerting.
+
+- Kistr (HR) — Problem: HR teams needed a single source of truth for employee records and basic analytics. Solution: developed a compact HR microservice for employee profiles, role history, and simple analytics endpoints; included CSV import/exports and audit logging. Impact: centralized employee data and made reporting straightforward for people ops.
+
+(If any wording or technical details need correction for a specific project, tell me which project and the exact change and I will update it.)
 
 ## 📈 GitHub stats
 [![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilal006-bit&show_icons=true&theme=radical)](https://github.com/Bilal006-bit)
@@ -30,11 +37,12 @@ Open to roles or collaborations in data engineering, backend development, and an
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/bilalali06/
-- Email: (add if you want an email visible)
+- Email: bilalalidaper@gmail.com
 
 ---
 
-What I suggest next
-- Pin 3–6 repositories on your GitHub profile. I suggest: clinic-cancellation-intel, data-viz-cancer-dashboard, FlowState, Via-Physio-CaseStudy.
-- Short bio suggestion (one line): "Data Engineer & Backend Developer — Python, SQLAlchemy, ETL, and product-driven analytics. Open to collaboration."
-- Optional: add a banner image (1200×300) and an email if you want direct contact.
+If you want further polish I can:
+- Replace project bullets with exact metrics if you provide numbers (e.g., "reduced processing time by 40%"),
+- Create an alternate banner design (different colors or text),
+- Add dynamic badges (top languages, Wakatime, streaks), or
+- Help you pick and pin 3–6 repos on your profile.
