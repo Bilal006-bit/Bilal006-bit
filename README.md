@@ -25,7 +25,7 @@ Python • SQLAlchemy • Data Engineering • SQL • pandas • Streamlit • 
 
 - watercane_servico — Problem: sensor telemetry for water systems arrived in varying formats and was hard to monitor. Solution: created a lightweight ingestion service and streaming processors to normalize sensor feeds and push validated metrics into a time-series-friendly store. Impact: provided near-real-time visibility into sensor health and simplified alerting.
 
-- Kistr (HR) — Problem: HR teams needed a single source of truth for employee records and basic analytics. Solution: developed a compact HR microservice for employee profiles, role history, and simple analytics endpoints; included CSV import/exports and audit logging. Impact: centralized employee data and made reporting straightforward for people ops.
+- KERN (HRIS) — Problem: HR teams needed a single source of truth for employee records and basic analytics. Solution: developed a compact HR microservice for employee profiles, role history, and simple analytics endpoints; included CSV import/exports and audit logging. Impact: centralized employee data and made reporting straightforward for people ops.
 
 
 
